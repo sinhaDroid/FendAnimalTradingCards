@@ -1,0 +1,15 @@
+/* add your CSS here */
+.facts {
+	font-style: italic;
+}
+span {
+	font-weight: bold;
+}
+ul {
+  list-style-type: none;
+}
+.bord {
+	border-radius: 5px;
+	border-style: solid;
+	padding: 5px;
+}
