@@ -1,15 +1,19 @@
 /* add your CSS here */
+.main {
+	width: 310px;
+}
 .facts {
 	font-style: italic;
 }
-span {
+.label {
 	font-weight: bold;
 }
 ul {
   list-style-type: none;
+  padding: 0;
 }
 .bord {
-	border-radius: 5px;
+	border-radius: 1em;
 	border-style: solid;
 	padding: 5px;
 }
